@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts_demo</string>
+    <string name="all_contacts">All Contacts</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="sim">Sim</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+</resources>
